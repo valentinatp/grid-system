@@ -42,3 +42,13 @@ header{
 .col-4 img{
 	width: 100%;
 }
+
+button {
+	position: relative;
+	left: 75%;
+	width: 25%;
+	top: 20px;
+	border-radius: 10px;
+	background-color: #022382;
+	color: whitesmoke;
+}
